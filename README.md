@@ -4,11 +4,11 @@ Livepeer is going to be at [ETHDenver](http://ethdenver.com) presenting and help
 
 ## DApp/Hack Ideas
 
-# Mobile Player Android App
-# Mobile Player iOS App
-# Tip With Eth via Metamask
-# "Report this content to the community" Mechanism
-# Livestream Your Own Desktop
+### Mobile Player Android App
+### Mobile Player iOS App
+### Tip With Eth via Metamask
+### "Report this content to the community" Mechanism
+### Livestream Your Own Desktop
 
 ## Getting Started Building on Livepeer
 
