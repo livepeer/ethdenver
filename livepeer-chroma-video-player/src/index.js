@@ -24,7 +24,7 @@ class App extends React.Component {
   updateSrc = e => {
     let src = e.clipboardData
       ? e.clipboardData.getData('text/plain')
-      : (src = e.target.value)
+      : e.target.value
     console.log(src)
     this.setState({ src })
   }
