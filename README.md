@@ -24,14 +24,14 @@ for more specific directions as to how to do the above.
 
 ## DApp/Hack Ideas
 
-### Mobile Player Android App
-### Mobile Player iOS App
-### Payment channel based payments micropayments for pay-as-you-go streaming
-### Tip With Eth via Metamask
-### "Report this content to the community" Mechanism
-### Livestream Your Own Desktop
-### Interactive chat
-### Incentivized live coding
+- Mobile Player Android App
+- Mobile Player iOS App
+- Payment channel based payments micropayments for pay-as-you-go streaming
+- Tip With Eth via Metamask
+- "Report this content to the community" Mechanism
+- Livestream Your Own Desktop
+- Interactive chat
+- Incentivized live coding
 
 ## Need Help? Get in Touch
 
