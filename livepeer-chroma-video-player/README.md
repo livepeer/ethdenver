@@ -1,6 +1,6 @@
 # Livepeer Chroma - Video Player [![Edit Livepeer Chroma - Video Player](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/oo5k8kymxy)
 
-This example dApp shows how to use the Livepeer Chroma (component library) + React to play live videos by their manifest or stream id. [View it live](https://codesandbox.io/s/oo5k8kymxy)
+This example dApp shows how to use the Livepeer Chroma (component library) + React to play live videos by their manifest or stream id. [View it live](https://oo5k8kymxy.codesandbox.io/)
 
 ## Requirements
 
