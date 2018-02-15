@@ -1,0 +1,21 @@
+{
+  "name": "livepeer-sdk-getting-a-list-of-jobs",
+  "version": "1.0.0",
+  "description": "Time to get a job(s)!",
+  "keywords": ["livepeer", "p2p", "dapp", "ethereum"],
+  "homepage": "https://codesandbox.io/s/r42rq1km9q",
+  "main": "src/index.js",
+  "dependencies": {
+    "@livepeer/sdk": "1.0.0-alpha.2",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "livepeer-sdk-getting-a-list-of-transcoders",
+  "version": "1.0.0",
+  "description": "Who's transcoding my video?",
+  "keywords": ["p2p", "livepeer", "dapp", "ethereum"],
+  "homepage": "https://codesandbox.io/s/l4yj7rnxn7",
+  "main": "src/index.js",
+  "dependencies": {
+    "@livepeer/sdk": "1.0.0-alpha.2",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

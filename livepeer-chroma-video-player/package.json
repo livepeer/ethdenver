@@ -1,0 +1,22 @@
+{
+  "name": "livepeer-chroma-video-player",
+  "version": "1.0.0",
+  "description":
+    "Play videos broadcast onto the Livepeer network by their manifest id or stream id",
+  "keywords": ["livepeer", "p2p", "live-streaming"],
+  "homepage": "https://codesandbox.io/s/oo5k8kymxy",
+  "main": "src/index.js",
+  "dependencies": {
+    "@livepeer/chroma": "1.0.0-alpha.3",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
