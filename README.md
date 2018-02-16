@@ -16,11 +16,13 @@ ETH, and run `livepeer -testnet`.
 3. Build your DApp and have it pull video from the Livepeer
    network. The example player in the
    [player-example](player-example) directory can be used as a
-   starting point.
+   starting point, or if you prefer a React.js component player check out the [livepeer-chroma-video-player example](https://github.com/livepeer/ethdenver/tree/master/livepeer-chroma-video-player).
 
 Check out the
 [Getting Started Section in the Livepeer Docs](http://livepeer.readthedocs.io/en/latest/getting_started.html)
 for more specific directions as to how to do the above.
+
+![Livepeer Screenshot](https://discourse-cdn-sjc2.com/standard13/uploads/livepeer/original/1X/526d008ab75a28fa143c1db6fa7183e0dd8c9919.jpg)
 
 ## DApp/Hack Ideas
 
