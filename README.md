@@ -32,6 +32,9 @@ for more specific directions as to how to do the above.
 - Livestream Your Own Desktop
 - Interactive chat
 - Incentivized live coding
+- 24-hr live Ethereum talk show
+- Decentralized object detection on video streams
+- Decentralized reputation system for broadcasters and/or transcoders
 
 ## Need Help? Get in Touch
 
